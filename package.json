@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "FORKED UNTIL THE PLUGIN HAS A PACKAGE.JSON",
   "main": "index.js",
+  "cordova": {
+    "id": "com.verso.cordova.clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
