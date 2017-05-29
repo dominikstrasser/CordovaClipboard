@@ -1,0 +1,19 @@
+{
+  "name": "cordova-clipboard",
+  "version": "1.0.0",
+  "description": "FORKED UNTIL THE PLUGIN HAS A PACKAGE.JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikstrasser/CordovaClipboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominikstrasser/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/dominikstrasser/CordovaClipboard#readme"
+}
